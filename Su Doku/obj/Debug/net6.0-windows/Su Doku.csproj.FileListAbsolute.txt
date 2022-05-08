@@ -1,0 +1,78 @@
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\Su Doku.exe
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\Su Doku.deps.json
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\Su Doku.runtimeconfig.json
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\Su Doku.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\Su Doku.pdb
+C:\Users\Dejan\source\repos\Su Doku\obj\Debug\net6.0-windows\Su Doku.csproj.AssemblyReference.cache
+C:\Users\Dejan\source\repos\Su Doku\obj\Debug\net6.0-windows\Su_Doku.Form1.resources
+C:\Users\Dejan\source\repos\Su Doku\obj\Debug\net6.0-windows\Su Doku.csproj.GenerateResource.cache
+C:\Users\Dejan\source\repos\Su Doku\obj\Debug\net6.0-windows\Su Doku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejan\source\repos\Su Doku\obj\Debug\net6.0-windows\Su Doku.AssemblyInfoInputs.cache
+C:\Users\Dejan\source\repos\Su Doku\obj\Debug\net6.0-windows\Su Doku.AssemblyInfo.cs
+C:\Users\Dejan\source\repos\Su Doku\obj\Debug\net6.0-windows\Su Doku.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\source\repos\Su Doku\obj\Debug\net6.0-windows\Su Doku.dll
+C:\Users\Dejan\source\repos\Su Doku\obj\Debug\net6.0-windows\refint\Su Doku.dll
+C:\Users\Dejan\source\repos\Su Doku\obj\Debug\net6.0-windows\Su Doku.pdb
+C:\Users\Dejan\source\repos\Su Doku\obj\Debug\net6.0-windows\Su Doku.genruntimeconfig.cache
+C:\Users\Dejan\source\repos\Su Doku\obj\Debug\net6.0-windows\ref\Su Doku.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\itext.barcodes.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\itext.forms.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\itext.io.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\itext.kernel.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\itext.layout.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\itext.pdfa.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\itext.sign.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\itext.styledxmlparser.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\itext.svg.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\itext.commons.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Dejan\source\repos\Su Doku\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Dejan\source\repos\Su Doku\obj\Debug\net6.0-windows\Su_Doku.Properties.Resources.resources
+C:\Users\Dejan\source\repos\Su Doku\obj\Debug\net6.0-windows\Su Doku.csproj.CopyComplete
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\Su Doku.exe
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\Su Doku.deps.json
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\Su Doku.runtimeconfig.json
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\Su Doku.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\Su Doku.pdb
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\itext.barcodes.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\itext.forms.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\itext.io.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\itext.kernel.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\itext.layout.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\itext.pdfa.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\itext.sign.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\itext.styledxmlparser.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\itext.svg.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\itext.commons.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\obj\Debug\net6.0-windows\Su Doku.csproj.AssemblyReference.cache
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\obj\Debug\net6.0-windows\Su_Doku.Form1.resources
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\obj\Debug\net6.0-windows\Su_Doku.Properties.Resources.resources
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\obj\Debug\net6.0-windows\Su Doku.csproj.GenerateResource.cache
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\obj\Debug\net6.0-windows\Su Doku.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\obj\Debug\net6.0-windows\Su Doku.AssemblyInfoInputs.cache
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\obj\Debug\net6.0-windows\Su Doku.AssemblyInfo.cs
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\obj\Debug\net6.0-windows\Su Doku.csproj.CoreCompileInputs.cache
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\obj\Debug\net6.0-windows\Su Doku.csproj.CopyComplete
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\obj\Debug\net6.0-windows\Su Doku.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\obj\Debug\net6.0-windows\refint\Su Doku.dll
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\obj\Debug\net6.0-windows\Su Doku.pdb
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\obj\Debug\net6.0-windows\Su Doku.genruntimeconfig.cache
+F:\Fakultet\Interakcija covjek-racunar\Su Doku\obj\Debug\net6.0-windows\ref\Su Doku.dll
